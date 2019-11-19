@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway:400,600');
+
+/* ----------------------------------------
+Base Styles
+------------------------------------------- */
+header{text-align: center;
+font-family: Raleway;
+font-size: 37px
+}
+
+}
+nav a{
+	text-decoration: none;
+	text-align: center;
+	font-family: Raleway;
+	font-size: 16px
+	color: #7b98aa
+}
+
+h3{
+	font-family: Raleway;
+	font-size: 18px
+	color: #44545e
+}
+
+
+/* Fix for responsive images */
+img {
+	max-width: 70%;
+
+}
+p{
+	font-family: Lato;
+	font-size: 16px;
+	}
+footer{
+	text-align: center;
+	margin: 25px 50px 75px 100px;
+}
+	 a{
+		text-decoration: none;
+		color: #7b98aa
+
+
+
+
+	}
+
+}
